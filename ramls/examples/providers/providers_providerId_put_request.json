@@ -1,0 +1,14 @@
+{
+  "data": {
+    "id": "123355",
+    "type": "providers",
+    "attributes": {
+      "providerToken": {
+        "value": "hellotoken"
+      },
+      "proxy": {
+        "id": "EZProxy"
+      }
+    }
+  }
+}
